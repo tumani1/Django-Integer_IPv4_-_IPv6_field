@@ -1,2 +1,2 @@
-Django-IPv4---IPv6-Field
+Django Integer Field for IPv4 & IPv6 adress
 ========================
